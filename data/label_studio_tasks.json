@@ -1,0 +1,262 @@
+[
+  {
+    "data": {
+      "text": "Lender\" means EverBank Reverse Mortgage LLC and its\nsuccessors and assigns. \"Secretary\" means the Secretary of Housing and Urban Development or his or her authorized\nrepresentatives."
+    },
+    "predictions": [
+      {
+        "model_version": "en_core_web_sm",
+        "result": [
+          {
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 14,
+              "end": 22,
+              "text": "EverBank",
+              "labels": [
+                "ORG"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 111,
+              "end": 140,
+              "text": "Housing and Urban Development",
+              "labels": [
+                "ORG"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Lender\" means Mortgage.Shop, LLC and its successors and\nassigns. \u201cSecretary\u201d means the Secretary of Housing and Urban Development or his or her authorized representatives."
+    },
+    "predictions": [
+      {
+        "model_version": "en_core_web_sm",
+        "result": [
+          {
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 29,
+              "end": 32,
+              "text": "LLC",
+              "labels": [
+                "ORG"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 100,
+              "end": 129,
+              "text": "Housing and Urban Development",
+              "labels": [
+                "ORG"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Lender\" means the Secretary of\nHousing and Urban Development or his or her authorized representatives."
+    },
+    "predictions": [
+      {
+        "model_version": "en_core_web_sm",
+        "result": [
+          {
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 31,
+              "end": 60,
+              "text": "Housing and Urban Development",
+              "labels": [
+                "ORG"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Lender\u201d means the Secretary of Housing and\nUrban Development or his or her authorized representatives."
+    },
+    "predictions": [
+      {
+        "model_version": "en_core_web_sm",
+        "result": [
+          {
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 31,
+              "end": 38,
+              "text": "Housing",
+              "labels": [
+                "ORG"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Lender\" means the Secretary of Housing and Urban\nDevelopment or his or her authorized representatives."
+    },
+    "predictions": [
+      {
+        "model_version": "en_core_web_sm",
+        "result": [
+          {
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 31,
+              "end": 60,
+              "text": "Housing and Urban \n Development",
+              "labels": [
+                "ORG"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Lender\" means\nEVERBANK REVERSE MORTGAGE LLC"
+    },
+    "predictions": [
+      {
+        "model_version": "en_core_web_sm",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Lender\u201d means the Sccretary of\nHousing and Urban Development or his or her authorized representatives."
+    },
+    "predictions": [
+      {
+        "model_version": "en_core_web_sm",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Lender\" means EverBank Reverse Mortgage LLC and its\nsuccessors and assigns. \u201cSecretary\u201d means the Secretary of Housing and Urban Development or his or her authorized\nrepresentatives."
+    },
+    "predictions": [
+      {
+        "model_version": "en_core_web_sm",
+        "result": [
+          {
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 14,
+              "end": 22,
+              "text": "EverBank",
+              "labels": [
+                "ORG"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 111,
+              "end": 140,
+              "text": "Housing and Urban Development",
+              "labels": [
+                "ORG"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Lender\u201d means EverBank Reverse Mortgage LLC and its\nSuccessors and assigns. \"Secretary\" means the Secretary of Housing and Urban Development or his or her authorized\nrepresentatives."
+    },
+    "predictions": [
+      {
+        "model_version": "en_core_web_sm",
+        "result": [
+          {
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 14,
+              "end": 22,
+              "text": "EverBank",
+              "labels": [
+                "ORG"
+              ]
+            }
+          },
+          {
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "start": 111,
+              "end": 140,
+              "text": "Housing and Urban Development",
+              "labels": [
+                "ORG"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Lender\u201d means EVERBANK REVERSE MORTGAGE LLC"
+    },
+    "predictions": [
+      {
+        "model_version": "en_core_web_sm",
+        "result": []
+      }
+    ]
+  }
+]
